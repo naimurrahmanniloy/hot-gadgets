@@ -3,7 +3,7 @@ body {
 }
 
 .container {
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .img {
@@ -78,4 +78,8 @@ body {
 
 #cat_img4 {
     height: 400px;
+}
+
+.navbar-nav li a:hover {
+    border-bottom: 1px solid blue;
 }
